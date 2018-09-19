@@ -36,9 +36,8 @@ The chart can be configured in a number of ways (all optional)
 * **range**: The output colour range of the data e.g. ["white", "red"]
 * **accessor**: An accessor function for e.g. arrays of objects
 
-###About
-Disclaimer:
 
+Disclaimer:
 This chart is customized from below:
 
 [Peter Cook](http://prcweb.co.uk)
