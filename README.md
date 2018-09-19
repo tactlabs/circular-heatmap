@@ -37,5 +37,9 @@ The chart can be configured in a number of ways (all optional)
 * **accessor**: An accessor function for e.g. arrays of objects
 
 ###About
-This chart was created by [Peter Cook](http://prcweb.co.uk)
+Disclaimer:
+
+This chart is customized from below:
+
+[Peter Cook](http://prcweb.co.uk)
 Twitter: [@prcweb](http://twitter.com/prcweb)
