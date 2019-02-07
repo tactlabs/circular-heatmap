@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/circular-heatmap.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/circular-heatmap)
+
 #Circular Heat Chart
 
 A [D3](http://d3js.org) chart for displaying quantative data using segmented concentric rings.
